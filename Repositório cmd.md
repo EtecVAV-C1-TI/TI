@@ -1,6 +1,6 @@
 Para adicionar arquivos dentro da pasta do nosso repositório pelo cmd:
 
-copie e cole esse comando no cmd: git clone https://github.com/EtecVAV-C1-TI/TI
+copie e cole esse comando no cmd: git clone https://github.com/EtecVAV-C1-TI/TI.git
 
 acesse o diretório TI com o comando dir TI
 
