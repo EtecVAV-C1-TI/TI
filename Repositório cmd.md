@@ -4,7 +4,7 @@ Passo a passo de como usar o GitHub com o CMD:
 
 2 - Clicar em "Code" e copiar o link em HTTPS
 
-3 - Abra o cmd e entrar na pasta desejada (recomendado a pasta Downloads), escreva: git clone https://github.com/seu-usuario/seu-repositorio.git
+3 - Abra o cmd e entrar na pasta desejada pelo comando CD (recomendado a pasta Downloads), escreva: git clone https://github.com/seu-usuario/seu-repositorio.git
 
 4 - Caso você esteja usando um repositório privado e seja um colaborador, vc terá que fazer uma verificação que o próprio cmd te redireciona. Depois de fazer o login, volte para o cmd
 
