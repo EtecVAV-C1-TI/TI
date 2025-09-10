@@ -6,13 +6,14 @@ ESTRUTURA DAS PASTAS:
 
 Os arquivos foram separados em 3 pastas, sendo elas:
 
-- Artigo (contém apenas o artigo sobre sistemas de IA);
-- Pesquisas (todas as pesquisas feitas pelos membros do grupo);
-- Modelos (onde tem alguns tutoriais e modelos utilizados como base para a criação do trabalho)
+- Artigo: contém apenas o artigo sobre sistemas de IA;
+- Pesquisas: todas as pesquisas feitas pelos membros do grupo;
+- Modelos: onde tem alguns tutoriais e modelos utilizados como base para a criação do trabalho. 
 
 COMO ACESSAR:
 
-- Para acessar o repositorio é só utilizar esse link "https://github.com/EtecVAV-C1-TI/TI.git"
+- Para acessar o repositorio você pode utilizar esse link: "https://github.com/EtecVAV-C1-TI/TI.git"
+- Também é possível acessar pelo cmd, utilizando o seguinte comando: git clone https://github.com/EtecVAV-C1-TI/TI.git
 
  MEMBROS EFETIVOS:
  
