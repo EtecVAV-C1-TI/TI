@@ -8,7 +8,9 @@ Os arquivos foram separados em 3 pastas, sendo elas:
 
 - Artigo: contém apenas o artigo sobre sistemas de IA;
 - Pesquisas: todas as pesquisas feitas pelos membros do grupo;
-- Modelos: onde tem alguns tutoriais e modelos utilizados como base para a criação do trabalho. 
+- Modelos: onde tem alguns tutoriais e modelos utilizados como base para a criação do trabalho.
+- Projeto-ml: parte prática
+- slides: slides do trabalho
 
 🔎 COMO ACESSAR:
 
